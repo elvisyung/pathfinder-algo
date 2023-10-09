@@ -1,4 +1,3 @@
-# path-finding
+# PathFinder Algorithm
 
-A* Path Finding
-Astar Path Finding Algorithm with diagonal movement and euclidean distance as the heuristics function.
+Implementation of A*, BFS and Dijkstra's algorithms in Python displaying a versatile pathfinder capable of efficiently navigating complex maps for various optimization goals.
